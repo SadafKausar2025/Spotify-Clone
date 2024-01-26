@@ -1,0 +1,1 @@
+this folder contains the svgs used in makeing this beautifull sotify clone
